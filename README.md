@@ -8,7 +8,7 @@
 ⚡  Desenvolvendo projetos com base nos meus estudos, também buscando novos conhecimentos sobre Banco de dados e JavaScript.
 </p>
 <p align="left">
-👜 Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo a 5 anos, buscando a transição de carreira.
+👜 Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo há 5 anos, buscando a transição de carreira.
 </p>
 </div>
 
