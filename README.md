@@ -2,13 +2,16 @@
 
 <div>
 <p align="left">
-✍️ Estudo através da <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a> e através de cursos pagos e gratuitos encontrados na web.
+✍️ Estudo através da <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a> e também de cursos pagos e gratuitos.
 </p>
 <p align="left">
-⚡  Desenvolvendo projetos com base nos meus estudos, também buscando novos conhecimentos sobre Banco de dados e JavaScript.
+⚡  Desenvolvendo páginas para a web.
+</p>
+<p>
+🌱 Buscando conhecimentos sobre Banco de dados e JavaScript.
 </p>
 <p align="left">
-👜 Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo há 5 anos, buscando a transição de carreira.
+👜 Em transição de carreira. Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo há 5 anos.
 </p>
 </div>
 
