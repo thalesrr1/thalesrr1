@@ -5,7 +5,7 @@
 🎓    Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>;
 </p>
 <p align="left">
-⚡   Estudando através de cursos pagos e gratuitos na internet. Praticando o desenvolvimento de páginas web;
+⚡   Estudando através de cursos pagos e gratuitos na internet;
 </p>
 <p>
 🌱   Buscando conhecimentos sobre Banco de dados e JavaScript;
