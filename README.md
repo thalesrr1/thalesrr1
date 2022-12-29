@@ -8,7 +8,7 @@
 ⚡   Estudando através de cursos pagos e gratuitos na internet;
 </p>
 <p>
-🌱   Buscando conhecimentos sobre Banco de dados e JavaScript;
+🌱   Fale comigo sobre Banco de Dados e JavaScript;
 </p>
 <p align="left">
 👜    Em transição de carreira. Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo há 5 anos.
