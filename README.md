@@ -4,9 +4,6 @@
 <p align="left">
 🎓    Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>;
 </p>
-<p align="left">
-⚡   Estudando através de cursos pagos e gratuitos na internet;
-</p>
 <p>
 🌱   Fale comigo sobre Banco de Dados e JavaScript;
 </p>
