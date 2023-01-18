@@ -5,7 +5,7 @@
 🎓    Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>;
 </p>
 <p>
-🌱   Em busca de conhecimentos sobre Banco de Dados e JavaScript;
+🌱   Em busca de conhecimentos sobre Banco de Dados, JavaScript e responsividade;
 </p>
 <p align="left">
 👜    Em transição de carreira. Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo há 5 anos.
