@@ -1,5 +1,7 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Thales Tavares</h1>
-
+<p>
+Sou um aspirante a desenvolvedor web com uma paixão por tecnologia. Sou autodidata e curioso desde a infância, sempre querendo entender como as coisas funcionam. Ao longo dos anos, fui aprimorando minhas habilidades em solucionar problemas em computadores e, eventualmente, encontrei meu caminho na programação.
+</p>
 <div>
 <p align="left">
 🎓    Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>;
