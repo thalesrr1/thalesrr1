@@ -2,9 +2,7 @@
 <p>
 Desde a infância, explorei o mundo da informática, transformando desafios em soluções. A
 programação ocorreu na minha vida de forma espontânea, se tornando uma paixão, e minha
-trajetória profissional é um reflexo disso. Acredito que meu entusiasmo, meu comprometimento,
-minha busca contínua por conhecimento e minha dedicação a acompanhar as inovações
-tecnológicas.
+trajetória profissional é um reflexo disso.
 </p>
 <div>
 <p align="left">
