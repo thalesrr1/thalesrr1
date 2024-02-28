@@ -1,6 +1,10 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Thales Tavares</h1>
 <p>
-Sou um aspirante a desenvolvedor web com uma paixão por tecnologia. Sou autodidata e curioso desde a infância, sempre querendo entender como as coisas funcionam. Ao longo dos anos, fui aprimorando minhas habilidades em solucionar problemas em computadores e, eventualmente, encontrei meu caminho na programação.
+Desde a infância, explorei o mundo da informática, transformando desafios em soluções. A
+programação ocorreu na minha vida de forma espontânea, se tornando uma paixão, e minha
+trajetória profissional é um reflexo disso. Acredito que meu entusiasmo, meu comprometimento,
+minha busca contínua por conhecimento e minha dedicação a acompanhar as inovações
+tecnológicas.
 </p>
 <div>
 <p align="left">
