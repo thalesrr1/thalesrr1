@@ -1,6 +1,6 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Thales Tavares</h1>
 <p>
-Desde a infância, explorei o mundo da informática, transformando desafios em soluções. A
+Explorando o mundo da informática, transformando desafios em soluções. A
 programação ocorreu na minha vida de forma espontânea, se tornando uma paixão, e minha
 trajetória profissional é um reflexo disso.
 </p>
@@ -21,7 +21,6 @@ trajetória profissional é um reflexo disso.
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalestavares.r@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-tavaress/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532988517924)
 </div><br><br>
 
 <div align="center">
