@@ -9,17 +9,16 @@ trajetória profissional é um reflexo disso.
 🎓    Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>;
 </p>
 <p>
-🌱   Em busca de conhecimentos sobre Banco de Dados, JavaScript e responsividade;
+🌱   Aprofundando habilidades em Banco de Dados, TypeScript e C#
 </p>
 <p align="left">
-👜    Em transição de carreira. Trabalho como <a href="https://www.instagram.com/tavaressbarber">barbeiro</a> autônomo há 5 anos.
+🔰    Analista de dados e suporte técnico, com foco no setor de ERP.
 </p>
 </div>
 
 <div align="center">
 <h3> ✉️ Contatos </h3>
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalestavares.r@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-tavaress/)
 </div><br><br>
 
