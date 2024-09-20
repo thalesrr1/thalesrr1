@@ -6,7 +6,7 @@ trajetória profissional é um reflexo disso.
 </p>
 <div>
 <p align="left">
-🎓    Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>;
+🎓    Cursando Análise e Desenvolvimento de Sistemas;
 </p>
 <p>
 🌱   Aprofundando habilidades em Banco de Dados, TypeScript e C#
