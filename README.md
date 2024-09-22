@@ -1,8 +1,5 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Thales Tavares</h1>
 <p>
-Explorando o mundo da informática, transformando desafios em soluções. A
-programação ocorreu na minha vida de forma espontânea, se tornando uma paixão, e minha
-trajetória profissional é um reflexo disso.
 </p>
 <div>
 <p align="left">
