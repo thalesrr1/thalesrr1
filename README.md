@@ -5,16 +5,13 @@
 <p align="left">
 🎓    Cursando Análise e Desenvolvimento de Sistemas;
 </p>
-<p>
-🌱   Aprofundando habilidades em Banco de Dados, TypeScript e C#
-</p>
 <p align="left">
 🔰    Analista de dados e suporte técnico, com foco no setor de ERP.
 </p>
 </div>
 
 <div align="center">
-<h3> ✉️ Contatos </h3>
+<h3> ✉️ Contato </h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-tavaress/)
 </div><br><br>
