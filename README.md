@@ -5,8 +5,11 @@
 <p align="left">
 🎓    Cursando Análise e Desenvolvimento de Sistemas;
 </p>
+ <p align="left">
+🧑‍💻  Desenvolvimento Full-Stack;
+</p>
 <p align="left">
-🔰    Analista de dados e suporte técnico, com foco no setor de ERP.
+🔰    Atualmente, analista de dados e suporte técnico, com foco no setor de ERP.
 </p>
 </div>
 
