@@ -9,7 +9,7 @@
 🧑‍💻  Desenvolvimento Full-Stack;
 </p>
 <p align="left">
-🔰    Atualmente, analista e suporte técnico, no setor de ERP.
+🔰    Analista de suporte técnico, no setor de ERP.
 </p>
 </div>
 
