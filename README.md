@@ -3,7 +3,7 @@
 </p>
 <div>
 <p align="left">
-🎓    Cursando Análise e Desenvolvimento de Sistemas;
+🎓    Concluindo Análise e Desenvolvimento de Sistemas;
 </p>
  <p align="left">
 🧑‍💻  Desenvolvimento Full-Stack;
