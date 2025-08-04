@@ -4,6 +4,8 @@
 <div>
 <p align="left">
 🎓    Concluindo Análise e Desenvolvimento de Sistemas;
+</p>
+<p align="left">
 🎓    Formação técnica SENAI: Desenvolvedor fullstack (angular, c#, ssql);
 </p>
  <p align="left">
