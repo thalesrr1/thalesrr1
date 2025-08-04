@@ -6,7 +6,7 @@
 🎓    Concluindo Análise e Desenvolvimento de Sistemas;
 </p>
 <p align="left">
-🎓    Formação técnica SENAI: Desenvolvedor fullstack (angular, c#, ssql);
+🎓    Técnico SENAI: Desenvolvedor fullstack (angular, c#, ssql);
 </p>
  <p align="left">
 🧑‍💻  Desenvolvimento Full-Stack;
