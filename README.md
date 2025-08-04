@@ -9,7 +9,7 @@
 🎓    Técnico SENAI: Desenvolvedor fullstack (angular, c#, ssql);
 </p>
  <p align="left">
-🧑‍💻  Desenvolvimento Full-Stack;
+🧑‍💻  Desenvolvimento fullstack;
 </p>
 <p align="left">
 🔰    Analista de suporte técnico, no setor de ERP.
