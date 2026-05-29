@@ -3,16 +3,13 @@
 </p>
 <div>
 <p align="left">
-🎓    Concluindo Análise e Desenvolvimento de Sistemas;
+🎓    Análise e Desenvolvimento de Sistemas;
 </p>
 <p align="left">
-🎓    Técnico SENAI: Desenvolvedor fullstack (angular, c#, sql);
-</p>
- <p align="left">
-🧑‍💻  Desenvolvimento fullstack;
+🎓    SENAI: Desenvolvedor fullstack (angular, c#, sql);
 </p>
 <p align="left">
-🔰    Analista de suporte técnico, no setor de ERP.
+🔰    Analista de suporte técnico - ERP.
 </p>
 </div>
 
